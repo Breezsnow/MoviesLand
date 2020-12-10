@@ -1,0 +1,14 @@
+#pop-logo{
+    width: 40%;
+    text-align: center;
+}
+
+#footer{
+    position: fixed;
+    bottom: 0;
+    padding: 0 10;
+    color: blanchedalmond;
+    background-color: black;
+    text-align: center;
+    width: 100%;
+}
